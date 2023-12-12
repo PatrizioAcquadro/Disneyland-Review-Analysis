@@ -20,13 +20,13 @@ This project develops a Deep Neural Network (DNN) model to analyze reviews of Di
 
 ## Installation
 To set up the project environment:
-git clone https://github.com/PatrizioAcquadro/Disneyland-Review-Analysis.git
-cd Disneyland-Review-Analysis
-pip install -r requirements.txt
+- git clone https://github.com/PatrizioAcquadro/Disneyland-Review-Analysis.git
+- cd Disneyland-Review-Analysis
+- pip install -r requirements.txt
 
 ## Usage
 To run the analysis:
-jupyter notebook Acquadro_502311_MLP_DL_Exam.ipynb
+- jupyter notebook Acquadro_502311_MLP_DL_Exam.ipynb
 
 
 ## Contributing
